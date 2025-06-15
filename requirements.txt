@@ -1,5 +1,5 @@
 Flask
-tensorflow==2.9.1
+tensorflow==2.11.0
 numpy
 gdown
 Pillow
